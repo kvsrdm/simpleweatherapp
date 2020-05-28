@@ -1,4 +1,4 @@
 # Weather App
-![Alt Text](https://www.dropbox.com/s/moey2guusn569rj/Screenshot_1590680619.png?dl=0)
+![Screenshot_1590680619](https://user-images.githubusercontent.com/35692128/83163784-19a6c880-a114-11ea-8260-086d8f55b0d6.png)
 
 This project fetches input city's max and min temperature from "metaweather" API.
